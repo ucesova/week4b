@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
+  "name": "week4app",
+  "short_name": "week4app",
   "version": "basematerial",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "An app for browsers and phones which displays a map, tracks the user's location and add GeoJSON data to the map",
   "author": "PhoneGap Team",
   "icons": [],
   "start_url": "index.html"
