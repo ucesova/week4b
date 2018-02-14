@@ -1,0 +1,52 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "basematerial"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "basematerial"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "basematerial"
+    }
+  }
+}
