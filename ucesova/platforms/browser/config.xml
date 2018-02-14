@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="basematerial" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>helloworld</name>
+    <name>week4app</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        An app for browsers and phones which displays a map, tracks the user's location and add GeoJSON data to the map
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
