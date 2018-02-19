@@ -56,7 +56,7 @@
 	<script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"
 	integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA=="crossorigin="">
 	</script>
-	
+
 	<style>
     #view-source {
       position: fixed;
@@ -190,5 +190,11 @@
 	</script>
 		<!--the following script will load the map and set the default view and zoom, as well as loading the basemap tiles -->
 	<script src="js/appActivity.js"></script>
+	
+	<script>
+	document.addEventListener('DOMContentLoaded', function() { 
+		getEarthquakes();
+	}, false);
+	</script>
   </body>
 </html>
